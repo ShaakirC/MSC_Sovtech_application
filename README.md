@@ -1,6 +1,9 @@
 # MSC_Sovtech_application
 Created with CodeSandbox
 
+### Name: Moegamad Shaakir Cassiem
+### ID: 9510115040080
+
 ## A note to the invidulators:
 
 I have never used nor heard of Apollo, GraphQL, Typescript nor Centralized State Management before.
